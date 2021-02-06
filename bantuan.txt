@@ -1,0 +1,5 @@
+Spatie:
+- config/backup.php
+
+Storage Laravel:
+- config/filesystems.php

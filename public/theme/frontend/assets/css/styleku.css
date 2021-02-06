@@ -1,0 +1,101 @@
+
+.navbar-nav .nav-link {
+    font-weight: 700;
+}
+
+.font-9{
+    font-size:9px;
+}
+.font-10{
+    font-size:10px;
+}
+.font-11{
+    font-size:11px;
+}
+.font-12{
+    font-size:12px;
+}
+.font-13{
+    font-size:13px;
+}
+.font-14{
+    font-size:14px;
+}
+.font-15{
+    font-size:15px;
+}
+.font-16{
+    font-size:16px;
+}
+.font-17{
+    font-size:17px;
+}
+.font-18{
+    font-size:18px;
+}
+.font-20{
+    font-size:20px;
+}
+.font-22{
+    font-size:22px;
+}
+.font-24{
+    font-size:24px;
+}
+
+
+.bg-soft-abu{
+    background: #f5efff !important;
+}
+.bg-dark-blue{
+    background: #075985 !important;
+}
+.bg-blue1{
+    background: #0369A1 !important;
+}
+.bg-soft-blue{
+    background: #eff5ff !important;
+}
+
+.direktori{
+    cursor:pointer;
+}
+.direktori:hover{
+    background: #F0F9FF;
+    border-color:#0EA5E9;
+}
+
+.border-pink {
+    border-color: #e91e63 !important;
+}
+.text-pink {
+    color: #e91e63;
+}
+.border-success2 {
+    border-color: #4caf50 !important;
+}
+.text-success2 {
+    color: #4caf50;
+}
+.bg-success2 {
+    background-color: #4caf50;
+}
+
+.border-primary2 {
+    border-color: #2196f3 !important;
+}
+.text-primary2 {
+    color: #2196f3;
+}
+.border-warning2 {
+    border-color: #ff7043 !important;
+}
+.text-warning2 {
+    color: #ff7043;
+}
+.border-teal {
+    border-color: #009688 !important;
+}
+.text-teal {
+    color: #009688;
+}
